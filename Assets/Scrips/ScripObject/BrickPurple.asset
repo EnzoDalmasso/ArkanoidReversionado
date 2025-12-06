@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0183fbcab20a29b488f1440eecd3541a, type: 3}
+  m_Name: BrickPurple
+  m_EditorClassIdentifier: 
+  hitsToBreak: 7
+  damageSprites:
+  - {fileID: 508960946, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 508960946, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -1700936608, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -571529273, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 326738516, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -1861714504, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 2049669750, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  score: 60
+  breakSprites:
+  - {fileID: 1361941141, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -1518807325, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 916730716, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -882617167, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -11311188, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0183fbcab20a29b488f1440eecd3541a, type: 3}
+  m_Name: BrickGreen
+  m_EditorClassIdentifier: 
+  hitsToBreak: 4
+  damageSprites:
+  - {fileID: -808948747, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -2045379873, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 162493841, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -515665310, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  score: 40
+  breakSprites:
+  - {fileID: 1756431876, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 242005415, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 197489136, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: 1317326871, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
+  - {fileID: -670065379, guid: ae3e7baf8bc0b1f4a817c64bc2e00a4c, type: 3}
